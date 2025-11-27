@@ -420,7 +420,7 @@ Each project teaches new concepts while building on the previous ones! 🚀
 ## 📬 Contact
 
 - 🐛 **Issues:** [GitHub Issues](https://github.com/whispem/mini-kvstore/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/whispem/mini-kvstore/discussions)
+- 💬 **Suggestions:** Open a discussion!
 - 📧 **Email:** contact.whispem@gmail.com
 
 ---
