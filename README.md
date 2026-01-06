@@ -20,7 +20,7 @@ Mini KV Store is a minimal, in-memory key-value database built from scratch in R
 **Started:** November 5, 2025  
 **Philosophy:** Build clear, minimal systems. Understand every piece.
 
-### Why this Project?
+### Why this project?
 
 This is intentionally the simplest possible key-value store:
 - Pure in-memory storage (no persistence... yet!)
