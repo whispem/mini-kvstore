@@ -1,4 +1,4 @@
-# Mini KV Store 🦀
+# Mini KVStore 🦀
 
 **A foundational in-memory key-value store built in Rust for learning system fundamentals**
 
