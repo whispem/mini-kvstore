@@ -15,7 +15,8 @@
 
 ## 📚 About
 
-Mini KV Store is a minimal, in-memory key-value database built from scratch in Rust. This project is part of my journey into understanding database internals and low-level system design—building the simplest possible storage engine to grasp core concepts before adding complexity.
+Mini KV Store is a minimal, in-memory key-value database built from scratch in Rust. 
+This project is part of my journey into understanding database internals and low-level system design—building the simplest possible storage engine to grasp core concepts before adding complexity.
 
 **Started:** November 5, 2025  
 **Philosophy:** Build clear, minimal systems. Understand every piece.
